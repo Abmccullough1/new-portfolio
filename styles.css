@@ -1,5 +1,7 @@
 *{padding: 0; margin: 0; box-sizing: border-box;}
-body{height: 900px;}
+body{
+	height: 900px;
+}
 header {
     font-family: 'Alishader Demo', sans-serif;                                            
     font-size: 70pt;
@@ -164,5 +166,8 @@ header .overlay{
 	border-left-style: solid;
 	max-width: fit-content;
 	margin-bottom: 10%;
+}
+body{
+	padding-bottom: 30%;
 }
 

@@ -28,7 +28,7 @@ header .overlay{
     text-align: center;
     font-size: 25pt;                                                
     font-family: 'Fonarto', sans-serif;                                             
-    padding-top: 5%;
+    padding: 5%;
     
 }
 .skill_head{
@@ -75,13 +75,14 @@ header .overlay{
 }
 .img_table{
 	border-style: solid;
-	max-width: fit-content;
+	max-width: 70%;
 	margin-left: auto;
 	margin-right: auto;
 	border-radius: 2%;
 	padding-bottom: 5%;
 	padding-left: 5%;
 	padding-right: 5%;
+	
 }
 .skills{
 	margin-top: 3%;

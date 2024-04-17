@@ -165,6 +165,7 @@ header .overlay{
 	margin-bottom: 10% ;
 	font-size: 20pt;
 	font-family: 'Fonarto', sans-serif; 
+	
                                                 
 }
 .let_stay_hover_text{
@@ -178,6 +179,10 @@ header .overlay{
 }
 body{
 	padding-bottom: 30%;
+}
+.Logo{
+	height: 150px;
+	position: absolute;top: 0%;left: 0%;
 }
 @media only screen and (max-width: 1180px){
 	.lets_stay{
